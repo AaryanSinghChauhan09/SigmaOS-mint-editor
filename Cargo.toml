@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-mint-editor"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS mint-editor component"
+
+[lib]
+name = "mint_editor"
+path = "src/lib.rs"
